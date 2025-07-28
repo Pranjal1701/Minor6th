@@ -1,6 +1,6 @@
 # 📈 Stock News Sentiment Analyzer & Trading Assistant
 
-Our platform offers instant insights powered by real-time news sentiment analysis and a smart trading assistant that uses cutting-edge natural language processing to evaluate financial headlines and determine whether the market tone is positive, negative, or neutral. Designed for both new and seasoned traders, the platform delivers actionable signals and clear visualizations to help you make informed, confident investment decisions.
+Our platform offers instant insights powered by real-time news sentiment analysis to evaluate financial headlines and determine whether the market tone is positive, negative, or neutral. The smart trading assistant helps users in making informed, confident investment decisions by providing users with multiple features like technical indicators, stock history, etc. Designed for both new and seasoned traders, the platform delivers actionable signals and clear visualizations to help users participate in trading more easily and wisely.
 
 ---
 
